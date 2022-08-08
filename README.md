@@ -1,4 +1,8 @@
-###
+# Current projects
+
+[scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
+[STREAM2](https://github.com/pinellolab/STREAM2)
+[ElPiGraph](https://github.com/j-bac/elpigraph-python)
 
 <!--
 **j-bac/j-bac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![j-bac's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-bac)](https://github.com/anuraghazra/github-readme-stats)
 
