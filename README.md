@@ -4,7 +4,7 @@
 
 [STREAM2](https://github.com/pinellolab/STREAM2)
 
-[ElPiGraph](https://github.com/j-bac/elpigraph-python)
+[elpigraph-python](https://github.com/j-bac/elpigraph-python)
 
 <!--
 **j-bac/j-bac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
