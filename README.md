@@ -1,7 +1,9 @@
 # Current projects
 
 [scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)
+
 [STREAM2](https://github.com/pinellolab/STREAM2)
+
 [ElPiGraph](https://github.com/j-bac/elpigraph-python)
 
 <!--
